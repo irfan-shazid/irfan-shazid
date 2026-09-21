@@ -105,7 +105,7 @@
 <div align="center">
 
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfan-shazid&theme=tokyonight" alt="GitHub Stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfan-shazid&theme=tokyonight" alt="Top Languages by Repo" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan-shazid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
