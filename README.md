@@ -134,7 +134,7 @@ I'm actively looking to contribute to:
 # 📫 Reach Me
 
 - 💼 LinkedIn: https://linkedin.com/in/irfan-shazid
-- 🌐 Portfolio: https://irfanshazidportfolio.web.app/
+- 🌐 Portfolio: https://irfanshazid.vercel.app/
 - 📧 Email: irfanshazid07@gmail.com
 
 ---
