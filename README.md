@@ -1,6 +1,3 @@
-<!-- <p align="center">
-  <img src="./banner.svg" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
-</p> -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/irfan-shazid/irfan-shazid/main/banner.svg?v=2" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
 </p>
@@ -106,17 +103,12 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfan-shazid&theme=tokyonight" alt="GitHub Stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfan-shazid&theme=tokyonight" alt="Top Languages" />
-
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
-
 <div align="center">
-
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfan-shazid&theme=tokyonight" alt="Most Commit Language" />
 <img height="170" src="https://streak-stats.demolab.com/?user=irfan-shazid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
