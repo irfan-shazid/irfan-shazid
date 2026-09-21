@@ -135,7 +135,7 @@ I'm actively looking to contribute to:
 
 - 💼 LinkedIn: https://linkedin.com/in/irfan-shazid
 - 🌐 Portfolio: https://irfanshazidportfolio.web.app/
-- 📧 Email: ishazid57@gmail.com
+- 📧 Email: irfanshazid07@gmail.com
 
 ---
 
