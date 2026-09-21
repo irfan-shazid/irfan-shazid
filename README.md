@@ -31,7 +31,7 @@
   <a href="https://x.com/irfan_shazid07">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/shazid25">
+  <a href="https://github.com/irfan-shazid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/irfan_shazid">
@@ -105,15 +105,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazid25&theme=tokyonight" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfan-shazid&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfan-shazid&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shazid25&theme=tokyonight" alt="Most Commit Language" />
-<img height="170" src="https://streak-stats.demolab.com/?user=shazid25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfan-shazid&theme=tokyonight" alt="Most Commit Language" />
+<img height="170" src="https://streak-stats.demolab.com/?user=irfan-shazid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -141,7 +141,7 @@ I'm actively looking to contribute to:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/shazid25?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=irfan-shazid&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/irfan-shazid?style=social)
 
 </div>
