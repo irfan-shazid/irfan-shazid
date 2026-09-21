@@ -1,7 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./banner.svg" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irfan-shazid/irfan-shazid/main/banner.svg?v=2" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
 </p>
-
 # 💫 About Me
 
 🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js and Django based projects  
