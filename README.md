@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./banner.svg" alt="Irfan Banner" width="100%" />
+  <img src="./banner.svg" alt="Irfan Shazid — Full Stack Developer" width="100%" />
 </p>
 
 # 💫 About Me
 
-🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js based projects  
+🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js and Django based projects  
 🤝 **Looking to collaborate on:** Open-source Full-Stack projects  
-🌱 **Currently learning:** TypeScript, System Design & Next.js  
-💬 **Ask me about:** React, Node.js, productivity, and modern web development  
+🌱 **Currently learning:** TypeScript, System Design, Next.js & Python/Django  
+💬 **Ask me about:** React, Node.js, Python, productivity, and modern web development  
 
 ---
 
@@ -16,7 +16,7 @@
 | Category | Details |
 |---|---|
 | 💻 Focus Area | Full Stack Development |
-| ⚡ Specialization | MERN, PERN, TypeScript, Next.js |
+| ⚡ Specialization | MERN, PERN, TypeScript, Next.js, Python & Django |
 | 📚 Learning Path | TypeScript → System Design → Next.js → Golang |
 | 🤝 Collaboration | Open to meaningful open-source contributions |
 
@@ -28,19 +28,15 @@
   <a href="https://linkedin.com/in/irfan-shazid">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://x.com/irfan_shazid07">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
   <a href="https://github.com/shazid25">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://instagram.com/irfan_shazid">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
   <a href="mailto:ishazid57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -54,6 +50,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -71,6 +68,7 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -107,14 +105,16 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shazid25&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shazid25&theme=tokyonight" alt="Most Commit Language" />
+<img height="170" src="https://streak-stats.demolab.com/?user=shazid25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -125,6 +125,7 @@ I'm actively looking to contribute to:
 
 - 🔧 Open-source web projects
 - 🌐 Full-stack applications
+- 🐍 Python & Django backends
 - 🎨 UI/UX-focused web apps
 - ⚡ Modern React & Next.js ecosystems
 
@@ -140,8 +141,7 @@ I'm actively looking to contribute to:
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
-
+![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/shazid25?style=social)
 
 </div>
