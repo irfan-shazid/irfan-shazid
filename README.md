@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-v2.svg" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
+  <img src="./banner.svg" alt="Irfan Shazid — Full Stack Engineer" width="100%" />
 </p>
 
 # 💫 About Me
