@@ -103,12 +103,17 @@
 # 📊 GitHub Analytics
 
 <div align="center">
+
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfan-shazid&theme=tokyonight" alt="GitHub Stats" />
-<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfan-shazid&theme=tokyonight" alt="Top Languages by Repo" />
+
 </div>
+
 <div align="center">
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfan-shazid&theme=tokyonight" alt="Most Commit Language" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfan-shazid&theme=tokyonight" alt="Top Languages by Commit" />
 <img height="170" src="https://streak-stats.demolab.com/?user=irfan-shazid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
